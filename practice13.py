@@ -91,3 +91,4 @@ class Linklist(object):
         for i in range(pos - 2):
             p = p.next
         p.next = p.next.next
+#编写一个检查CAN报文值得方法
